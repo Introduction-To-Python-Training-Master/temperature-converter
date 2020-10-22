@@ -8,11 +8,19 @@ __version__ = "0.1.0"
 __license__ = "MIT"
 
 
-def main():
-    """ Main entry point of the app """
-    print("Hello World!")
+def convert_temperature(farenheit):
+    """ Converts temperature from farenheit to celcius, 
+    return the result
+    """
+
+    result = 0.0
+	# *************************************************************
+	# Add code below this line
+	
 
 
-# if __name__ == "__main__":
-    """ This is executed when run from the command line """
-    # main()
+	
+	# Add code above this line
+	# *************************************************************
+	return result
+
