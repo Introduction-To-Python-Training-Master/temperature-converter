@@ -27,15 +27,11 @@ The file contains
 
 	The requirements.txt file contains one line per package. Each line contains the package name, and optionally, the requested version. 
 
-	&nbsp;
-
 	For more info, see [here](https://pip.pypa.io/en/stable/user_guide/#requirements-files)
 
 1. test_main.py
 
 	`test_main.py` file contains code to run all test cases for the assignment. 
-
-	&nbsp;
 
 	You should not edit this file.
 
